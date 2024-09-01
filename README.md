@@ -1,3 +1,6 @@
+# Project Description
+Welcome to TechTrackHub! We are your go-to online destination for purchasing the latest electronic gadgets and tech products. Our platform is designed to offer a seamless and enjoyable shopping experience, providing a wide range of cutting-edge technology and electronics.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
